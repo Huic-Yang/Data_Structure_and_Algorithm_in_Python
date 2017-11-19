@@ -14,3 +14,5 @@
 * [C-1.14](C_1_14.py)
 * [C-1.15](C_1_15.py)
 * [C-1.16](C_1_16.txt)
+> outside_data --> [elem_0, elem_1, ..., elem_n] <-- inside_data,
+so inside_data[j] is outside_data[j].
