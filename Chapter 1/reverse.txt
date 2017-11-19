@@ -1,0 +1,5 @@
+Input: a sequence data
+Output: a sequence listed in the opposite order
+
+For i in [0, len(data) / 2)
+  swap data[i], data[len - i]
